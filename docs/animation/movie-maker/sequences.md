@@ -20,7 +20,7 @@ Any project saved as a .movie resource (in the file menu) can be used as a seque
 If you want to split your existing movie into multiple sequences:
 
 
-1. Switch to the [Motion Editor](/editor/movie-maker/motion-editing.md)
+1. Switch to the [Motion Editor](/animation/movie-maker/motion-editing.md)
 2. Select the time range you want to save as a sequence
 3. Select *Save As Sequence..* in the context menu
 

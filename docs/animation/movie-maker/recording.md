@@ -33,11 +33,11 @@ You can record even when the game isn't in play mode, letting you puppet propert
 
 # Editing
 
-After making your recording, you can then polish it up in the [Motion Editor](/editor/movie-maker/motion-editing.md) or [Keyframe Editor](/editor/movie-maker/keyframe-editing.md). Here's some extra recording specific tips:
+After making your recording, you can then polish it up in the [Motion Editor](/animation/movie-maker/motion-editing.md) or [Keyframe Editor](/animation/movie-maker/keyframe-editing.md). Here's some extra recording specific tips:
 
 ## Cutting
 
-Your best bet here is to save your recording to a separate .movie, then reference it as a [sequence block](/editor/movie-maker/sequences.md) in your main project. This lets you take clips from the recording, tweaking the start and end times as needed.
+Your best bet here is to save your recording to a separate .movie, then reference it as a [sequence block](/animation/movie-maker/sequences.md) in your main project. This lets you take clips from the recording, tweaking the start and end times as needed.
 
 ## Smoothing
 

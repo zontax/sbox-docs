@@ -13,10 +13,6 @@ The s&box editor is your workspace for building games — scene editing, asset m
 
 Visual scripting system for creating logic without writing code.
 
-## [Movie Maker](/editor/movie-maker/index.md)
-
-Timeline-based cinematic tool for recording, keyframing, and exporting videos.
-
 ## [Editor Tools](/editor/editor-tools/index.md)
 
 Custom tools you can build to extend the editor for your game's needs.

@@ -55,11 +55,11 @@ Toggle synchronizing all movie players in the scene when previewing playback.
 
 ### Keyframe Editor
 
-Switch to the keyframe editor mode, for simpler animations. Find out more [here](/editor/movie-maker/keyframe-editing.md).
+Switch to the keyframe editor mode, for simpler animations. Find out more [here](/animation/movie-maker/keyframe-editing.md).
 
 ### Motion Editor
 
-Switch to the motion editor mode, for finer control than keyframe editing. Find out more [here](/editor/movie-maker/motion-editing.md).
+Switch to the motion editor mode, for finer control than keyframe editing. Find out more [here](/animation/movie-maker/motion-editing.md).
 
 
 ## Snapping

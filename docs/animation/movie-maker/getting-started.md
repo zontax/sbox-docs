@@ -88,10 +88,10 @@ Sequence tracks are created automatically when you import a movie: either by rig
 
 # Next Steps
 
-* [Editor Map](/editor/movie-maker/editor-map.md) - find your way around the movie editor
-* [Keyframe Editing](/editor/movie-maker/keyframe-editing.md) - a great place to start making simple animations
-* [Motion Editing](/editor/movie-maker/motion-editing.md) - make more detailed animations and edit recordings
-* [Recording](/editor/movie-maker/recording.md) - manually puppet characters or record gameplay
-* [Sequences](/editor/movie-maker/sequences.md) - cleanly structure big projects with nested movies
-* [Playback API](/editor/movie-maker/playback-api.md) - define movies and play them back using C#.
-* [Recording API](/editor/movie-maker/recording-api.md) - record and save the gameplay using C#
+* [Editor Map](/animation/movie-maker/editor-map.md) - find your way around the movie editor
+* [Keyframe Editing](/animation/movie-maker/keyframe-editing.md) - a great place to start making simple animations
+* [Motion Editing](/animation/movie-maker/motion-editing.md) - make more detailed animations and edit recordings
+* [Recording](/animation/movie-maker/recording.md) - manually puppet characters or record gameplay
+* [Sequences](/animation/movie-maker/sequences.md) - cleanly structure big projects with nested movies
+* [Playback API](/animation/movie-maker/playback-api.md) - define movies and play them back using C#.
+* [Recording API](/animation/movie-maker/recording-api.md) - record and save the gameplay using C#

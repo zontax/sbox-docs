@@ -20,7 +20,7 @@ You can animate skinned characters directly in the editor using Movie Maker. Thi
 
 Movie Maker's skeletal animation tools are enabled if you have at least one *SkinnedModelRenderer* in your movie with a *Bones* sub-track. When enabled for a renderer, you'll see its skeleton.
 
-You'll also need to be in the [Motion Editor](/editor/movie-maker/motion-editing.md) to do the modifications described in this tutorial.
+You'll also need to be in the [Motion Editor](/animation/movie-maker/motion-editing.md) to do the modifications described in this tutorial.
 
 
 ![Skeleton visualization setup](./images/skeleton-visualization-setup.mp4)
@@ -99,7 +99,7 @@ We have some basic tools to help you tweak how your characters are posed during 
 
 
 :::tip
-You should know the basics of [Motion Editing](/editor/movie-maker/motion-editing.md) before getting started here.
+You should know the basics of [Motion Editing](/animation/movie-maker/motion-editing.md) before getting started here.
 
 :::
 
