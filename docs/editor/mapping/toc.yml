@@ -1,3 +1,5 @@
 items:
+- name: Mapping For Games
+  href: mappingforgames.md
 - name: Shortcuts
   href: shortcuts.md
